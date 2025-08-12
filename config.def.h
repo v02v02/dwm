@@ -18,7 +18,7 @@
  *
  * Patches applied:
  * - dwm-fullgaps-6.4.diff
- *   (Adds gaps arounc windows.)
+ *   (Adds gaps around windows.)
  *
  */
 
